@@ -1,0 +1,24 @@
+th, td {
+  border : 1px solid black;
+}
+
+.main {
+  background-color: aliceblue;
+  color:black;
+  padding: 20px 100px;
+  display: inline-block;
+  width: 100%; /* Full width of the container */
+  max-width: 1200px; /* Optional: maximum width */
+  margin: 0 auto; /* Center the table */
+}
+
+table {
+  width: 100%; /* Make the table take the full width of the container */
+  border-collapse: collapse; /* Optional: for cleaner borders */
+}
+
+.title {
+  color:black;
+  text-align: center;
+  
+}

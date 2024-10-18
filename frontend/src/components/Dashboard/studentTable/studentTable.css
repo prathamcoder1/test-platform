@@ -1,0 +1,22 @@
+th, td {
+  border : 1px solid white;
+}
+
+.main {
+  background-color: #192538;
+  color:white;
+  padding: 20px 100px;
+  display: inline-block;
+  border: "white 5px solid";
+}
+
+.title {
+  color:white;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  max-width: 100%; 
+  table-layout: auto; 
+}
